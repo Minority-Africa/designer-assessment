@@ -3,7 +3,7 @@
 ## High Level Instructions
 - You are to build a high fidelity Design for Minority Africa Advance Platform
 - Checkout the pitch deck attached in this repo to read more on the Advance platform , 
-- Take screenshots of colourful parts, Extract a color pallete that you are going to use in the Design
+- Take screenshots of colourful parts, Extract a color pallete that you are going to use in the Design. This is just guidance, incorporate your deep knowledge on this. 
 - Use any tool to generate a color pallete, Do checkout [https://www.canva.com/colors/color-palette-generator/](https://www.canva.com/colors/color-palette-generator/) it might help
 - Create a logo that you think fits well to what Minority Africa is about and what you think we want to achieve with Advance
 - Create atleast 10 pages of the High Fidelity Design that you deem important in either Figma or Adobe XD. The features of Advance platform are in the below section `What the Advance Does'
